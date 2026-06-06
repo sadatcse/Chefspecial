@@ -1,0 +1,25 @@
+/* Add this to your main CSS file, e.g., App.css or YourComponent.css */
+
+.text-dark h2,
+.text-dark h5,
+.text-dark p {
+  color: #333333; /* A strong dark gray for better readability */
+}
+
+/* Ensure the line seperator is dark as well */
+.text-dark .line-seperator {
+  background-color: #333333;
+}
+
+/* Optional: Style for a dark button if your framework doesn't have it */
+.btn.btn-dark {
+    background-color: #212529;
+    color: #ffffff;
+    border-color: #212529;
+}
+
+.btn.btn-dark:hover {
+    background-color: #3c4043;
+    color: #ffffff;
+    border-color: #3c4043;
+}

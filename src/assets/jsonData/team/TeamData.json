@@ -1,0 +1,494 @@
+[
+    {
+        "id": 1,
+        "activeClass": "active",
+        "delay": "100",
+        "memberThumb": "author1.jpg",
+        "designation": "Head Chef",
+        "name": "Chef Rahman Ali",
+        "email": "rahman.ali@chefspecial.com.bd",
+        "phone": "+880 171 123 4567",
+        "address": "House 12, Road 5, Sector 10, Uttara, Dhaka 1230",
+        "skillProgress": [
+            {
+                "id": 1,
+                "title": "Fine Dining",
+                "end": 98
+            },
+            {
+                "id": 2,
+                "title": "Menu Development",
+                "end": 95
+            },
+            {
+                "id": 3,
+                "title": "Kitchen Management",
+                "end": 92
+            }
+        ],
+        "memberData": [
+            {
+                "id": 1,
+                "listTitle": "Education",
+                "memberInfo": [
+                    {
+                        "id": 1,
+                        "title": "National Hotel & Tourism Training Institute",
+                        "info": "Diploma in Culinary Arts",
+                        "timeSpan": "2005 - 2007"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Le Cordon Bleu, Bangkok",
+                        "info": "Grand Diplôme - Cuisine & Pâtisserie",
+                        "timeSpan": "2008 - 2009"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "listTitle": "Experience",
+                "memberInfo": [
+                    {
+                        "id": 1,
+                        "title": "Sous Chef",
+                        "info": "The Westin Dhaka",
+                        "timeSpan": "2010 - 2016"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Executive Chef",
+                        "info": "Radisson Blu Dhaka Water Garden",
+                        "timeSpan": "2016 - 2023"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "activeClass": "",
+        "delay": "200",
+        "memberThumb": "author2.jpeg",
+        "designation": "Sous Chef",
+        "name": "Sameer Hossain",
+        "email": "sameer.hossain@chefspecial.com.bd",
+        "phone": "+880 181 234 5678",
+        "address": "Flat 5B, Road 7, Block F, Banani, Dhaka 1213",
+        "skillProgress": [
+            {
+                "id": 1,
+                "title": "Grilling & Roasting",
+                "end": 90
+            },
+            {
+                "id": 2,
+                "title": "Fusion Cuisine",
+                "end": 96
+            },
+            {
+                "id": 3,
+                "title": "Food Costing",
+                "end": 85
+            }
+        ],
+        "memberData": [
+            {
+                "id": 1,
+                "listTitle": "Education",
+                "memberInfo": [
+                    {
+                        "id": 1,
+                        "title": "Institute of Tourism and Hotel Management",
+                        "info": "Advanced Certificate in Food Production",
+                        "timeSpan": "2010 - 2012"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "listTitle": "Experience",
+                "memberInfo": [
+                    {
+                        "id": 1,
+                        "title": "Chef de Partie",
+                        "info": "Pan Pacific Sonargaon Dhaka",
+                        "timeSpan": "2013 - 2017"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Junior Sous Chef",
+                        "info": "Amari Dhaka",
+                        "timeSpan": "2017 - 2023"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "activeClass": "",
+        "delay": "300",
+        "memberThumb": "author4.jpeg",
+        "designation": "Restaurant Manager",
+        "name": "Faria Islam",
+        "email": "faria.islam@chefspecial.com.bd",
+        "phone": "+880 191 345 6789",
+        "address": "Apt C3, House 25, Gulshan Avenue, Dhaka 1212",
+        "skillProgress": [
+            {
+                "id": 1,
+                "title": "Customer Service",
+                "end": 99
+            },
+            {
+                "id": 2,
+                "title": "Staff Management",
+                "end": 94
+            },
+            {
+                "id": 3,
+                "title": "Event Planning",
+                "end": 90
+            }
+        ],
+        "memberData": [
+            {
+                "id": 1,
+                "listTitle": "Education",
+                "memberInfo": [
+                    {
+                        "id": 1,
+                        "title": "University of Dhaka",
+                        "info": "BBA - Marketing",
+                        "timeSpan": "2008 - 2012"
+                    },
+                    {
+                        "id": 2,
+                        "title": "BRAC University",
+                        "info": "MBA - Major in Management",
+                        "timeSpan": "2013 - 2015"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "listTitle": "Experience",
+                "memberInfo": [
+                    {
+                        "id": 1,
+                        "title": "F&B Supervisor",
+                        "info": "Le Méridien Dhaka",
+                        "timeSpan": "2015 - 2019"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Assistant Manager",
+                        "info": "InterContinental Dhaka",
+                        "timeSpan": "2019 - 2023"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "activeClass": "",
+        "delay": "400",
+        "memberThumb": "author3.jpeg",
+        "designation": "Co-founder & Curator",
+        "name": "Istiak Ahmed",
+        "email": "istiak.ahmed@chefspecial.com.bd",
+        "phone": "+880 161 456 7890",
+        "address": "House 30, Road 12, Dhanmondi R/A, Dhaka 1209",
+        "skillProgress": [
+            {
+                "id": 1,
+                "title": "Business Strategy",
+                "end": 97
+            },
+            {
+                "id": 2,
+                "title": "Brand Development",
+                "end": 93
+            },
+            {
+                "id": 3,
+                "title": "Guest Relations",
+                "end": 95
+            }
+        ],
+        "memberData": [
+            {
+                "id": 1,
+                "listTitle": "Education",
+                "memberInfo": [
+                    {
+                        "id": 1,
+                        "title": "Institute of Business Administration (IBA), DU",
+                        "info": "BBA",
+                        "timeSpan": "2006 - 2010"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "listTitle": "Experience",
+                "memberInfo": [
+                    {
+                        "id": 1,
+                        "title": "Founder",
+                        "info": "The Dhaka Food Project (Blog)",
+                        "timeSpan": "2012 - 2018"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Co-founder",
+                        "info": "Chef's Special Restaurant",
+                        "timeSpan": "2024 - Present"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "activeClass": "",
+        "delay": "100",
+        "memberThumb": "author5.jpeg",
+        "designation": "Marketing Manager",
+        "name": "Nadia Karim",
+        "email": "nadia.karim@chefspecial.com.bd",
+        "phone": "+880 151 567 8901",
+        "address": "Flat 8A, Road 1, Baridhara DOHS, Dhaka 1206",
+        "skillProgress": [
+            {
+                "id": 1,
+                "title": "Digital Marketing",
+                "end": 96
+            },
+            {
+                "id": 2,
+                "title": "Social Media",
+                "end": 91
+            },
+            {
+                "id": 3,
+                "title": "Content Creation",
+                "end": 89
+            }
+        ],
+        "memberData": [
+            {
+                "id": 1,
+                "listTitle": "Education",
+                "memberInfo": [
+                    {
+                        "id": 1,
+                        "title": "North South University",
+                        "info": "BBA - Marketing",
+                        "timeSpan": "2013 - 2017"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "listTitle": "Experience",
+                "memberInfo": [
+                    {
+                        "id": 1,
+                        "title": "Marketing Executive",
+                        "info": "Foodpanda Bangladesh",
+                        "timeSpan": "2018 - 2021"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Brand Manager",
+                        "info": "A well-known restaurant chain",
+                        "timeSpan": "2021 - 2024"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "activeClass": "",
+        "delay": "200",
+        "memberThumb": "author6.jpeg",
+        "designation": "Beverage Specialist",
+        "name": "Tariq Anwar",
+        "email": "tariq.anwar@chefspecial.com.bd",
+        "phone": "+880 131 678 9012",
+        "address": "House 15, Sector 4, Uttara, Dhaka 1230",
+        "skillProgress": [
+            {
+                "id": 1,
+                "title": "Mocktail Crafting",
+                "end": 98
+            },
+            {
+                "id": 2,
+                "title": "Coffee & Barista Skills",
+                "end": 92
+            },
+            {
+                "id": 3,
+                "title": "Flavor Pairing",
+                "end": 88
+            }
+        ],
+        "memberData": [
+            {
+                "id": 1,
+                "listTitle": "Education",
+                "memberInfo": [
+                    {
+                        "id": 1,
+                        "title": "Self-Taught & Workshops",
+                        "info": "Specialized in Mixology and Beverage Arts",
+                        "timeSpan": "Ongoing"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "listTitle": "Experience",
+                "memberInfo": [
+                    {
+                        "id": 1,
+                        "title": "Head Barista",
+                        "info": "North End Coffee Roasters",
+                        "timeSpan": "2017 - 2020"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Mixologist",
+                        "info": "A popular Gulshan cafe",
+                        "timeSpan": "2020 - 2024"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "activeClass": "",
+        "delay": "300",
+        "memberThumb": "author7.jpeg",
+        "designation": "Pastry Chef",
+        "name": "Anika Chowdhury",
+        "email": "anika.c@chefspecial.com.bd",
+        "phone": "+880 141 789 0123",
+        "address": "Green Road, Near Panthapath, Dhaka 1205",
+        "skillProgress": [
+            {
+                "id": 1,
+                "title": "Baking & Pastry",
+                "end": 97
+            },
+            {
+                "id": 2,
+                "title": "Dessert Plating",
+                "end": 94
+            },
+            {
+                "id": 3,
+                "title": "Chocolate Work",
+                "end": 86
+            }
+        ],
+        "memberData": [
+            {
+                "id": 1,
+                "listTitle": "Education",
+                "memberInfo": [
+                    {
+                        "id": 1,
+                        "title": "Tommy Miah's Hospitality Management Institute",
+                        "info": "Certificate in Baking and Pastry Arts",
+                        "timeSpan": "2014 - 2015"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "listTitle": "Experience",
+                "memberInfo": [
+                    {
+                        "id": 1,
+                        "title": "Pastry Commis",
+                        "info": "The Bread & Biscuit Factory",
+                        "timeSpan": "2016 - 2019"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Assistant Pastry Chef",
+                        "info": "Renaissance Dhaka Gulshan Hotel",
+                        "timeSpan": "2019 - 2024"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "activeClass": "",
+        "delay": "400",
+        "memberThumb": "author9.jpeg",
+        "designation": "Digital Content Creator",
+        "name": "Md Sohag",
+        "email": "md.sohag@chefspecial.com.bd",
+        "phone": "+880 172 890 1234",
+        "address": "Mirpur DOHS, Road 3, Dhaka 1216",
+        "skillProgress": [
+            {
+                "id": 1,
+                "title": "Food Photography",
+                "end": 90
+            },
+            {
+                "id": 2,
+                "title": "Videography",
+                "end": 85
+            },
+            {
+                "id": 3,
+                "title": "Creative Writing",
+                "end": 95
+            }
+        ],
+        "memberData": [
+            {
+                "id": 1,
+                "listTitle": "Education",
+                "memberInfo": [
+                    {
+                        "id": 1,
+                        "title": "Independent University, Bangladesh (IUB)",
+                        "info": "BA in Media and Communication",
+                        "timeSpan": "2016 - 2020"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "listTitle": "Experience",
+                "memberInfo": [
+                    {
+                        "id": 1,
+                        "title": "Freelance Food Blogger",
+                        "info": "Dhaka Foodies (Online Platform)",
+                        "timeSpan": "2020 - 2022"
+                    },
+                    {
+                        "id": 2,
+                        "title": "Content Creator",
+                        "info": "A Digital Marketing Agency",
+                        "timeSpan": "2022 - 2024"
+                    }
+                ]
+            }
+        ]
+    }
+]

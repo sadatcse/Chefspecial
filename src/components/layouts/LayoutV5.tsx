@@ -1,0 +1,24 @@
+import CursorEffect from "../animation/CursorEffect";
+import BreadCrumb from "../breadCrumb/BreadCrumb";
+import FooterV1 from "../footer/FooterV1";
+import HeaderV5 from "../header/HeaderV5";
+
+interface LayoutProps {
+    children?: React.ReactNode;
+    breadCrumb?: string;
+    title?: string;
+}
+
+const LayoutV5 = ({ children, breadCrumb, title }: LayoutProps) => {
+    return (
+        <>
+            <HeaderV5 />
+            {breadCrumb && <BreadCrumb breadCrumb={breadCrumb} title={title} />}
+            {children}
+            <CursorEffect />
+            <FooterV1 />
+        </>
+    );
+};
+
+export default LayoutV5;

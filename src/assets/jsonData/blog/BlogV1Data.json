@@ -1,0 +1,33 @@
+[
+    {
+        "id": 16,
+        "date": "9 July, 2025",
+        "author": "Chef's Special Team",
+        "delay": "200",
+        "title": "We're Officially Open! Chef's Special Arrives in Uttara!",
+       "category": "Resturant",
+        "thumb": "grand.jpg",
+        "imageName": "grand.jpg",
+        "animationDelay": "200"
+    },
+    {
+        "id": 14,
+        "date": "11 July, 2025",
+        "author": "Anika Chowdhury",
+        "title": "Crispy, Creamy, and Delicious: Our Unforgettable Chicken Scallopini.",
+        "thumb": "Chicken Scallopini.png",
+        "imageName": "author7.jpg",
+        "delay": "200",
+        "category": "Food"
+    },
+    {
+        "id": 15,
+        "date": "12 July, 2025",
+        "author": "Sameer Hossain",
+        "delay": "200",
+        "category": "Pizza",
+        "title": "For the Love of Chicken Pizza: A Timeless Classic, Perfected.",
+        "thumb": "Beef Pizza.png",
+        "imageName": "author2.jpg"
+    }
+]

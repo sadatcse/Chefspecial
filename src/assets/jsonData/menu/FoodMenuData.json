@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "thumb": "Wedges.png",
+        "delay": "100",
+        "title": "Potato Wedges",
+        "text": "Crispy potato wedges, perfectly seasoned and served with our chef's special sauce.",
+        "tags": ["Potato", "Wedges", "Sauce"],
+        "price": 210.00,
+        "icon": "fa fa-heart",
+        "category": ["appetizer"]
+    },
+    {
+        "id": 2,
+        "thumb": "Crunchy Chicken toast.png",
+        "delay": "200",
+        "title": "Crunchy Chicken Toast",
+        "text": "Two slices of toast with mozzarella, chicken, mushroom, and a fresh cream sauce.",
+        "tags": ["Chicken", "Toast", "Mushroom", "Cheese"],
+        "price": 299.00,
+        "icon": "fa fa-heart",
+        "category": ["appetizer", "sandwiches"]
+    },
+    {
+        "id": 3,
+        "thumb": "London Fish and Chips.png",
+        "delay": "300",
+        "title": "London Fish & Chips",
+        "text": "Marinated dori fish with french fries and a fresh garden salad, served with tartar sauce.",
+        "tags": ["Fish", "Chips", "Salad"],
+        "price": 450.00,
+        "icon": "fa fa-heart",
+        "category": ["seafood", "appetizer"]
+    },
+    {
+        "id": 4,
+        "thumb": "Garlic.png",
+        "delay": "400",
+        "title": "Garlic Mushroom",
+        "text": "Button mushrooms sauteed with chopped garlic and spices, served with a savory soya sauce.",
+        "tags": ["Mushroom", "Garlic", "Soya Sauce"],
+        "price": 290.00,
+        "icon": "fa fa-heart",
+        "category": ["appetizer", "vegetarian"]
+    },
+    {
+        "id": 5,
+        "thumb": "Chicken Nachos.png",
+        "delay": "500",
+        "title": "Chicken Nachos",
+        "text": "In-house made nachos with spicy minced chicken, aromatic vegetables, cheese, and salsa.",
+        "tags": ["Chicken", "Nachos", "Cheese", "Salsa"],
+        "price": 350.00,
+        "icon": "fa fa-heart",
+        "category": ["appetizer"]
+    },
+    {
+        "id": 6,
+        "thumb": "Cream of mushroom Soup.png",
+        "delay": "100",
+        "title": "Cream of Mushroom Soup",
+        "text": "A rich and creamy mushroom stock with cream sauce and green oil, served with garlic bread.",
+        "tags": ["Soup", "Mushroom", "Creamy"],
+        "price": 390.00,
+        "icon": "fa fa-heart",
+        "category": ["soup", "vegetarian"]
+    },
+    {
+        "id": 7,
+        "thumb": "Thai_soup.png",
+        "delay": "200",
+        "title": "Thai & Thick Soup",
+        "text": "A flavorful and spicy Thai soup with chicken, prawn, mushroom, and lemon grass.",
+        "tags": ["Soup", "Thai", "Chicken", "Prawn"],
+        "price": 360.00,
+        "icon": "fa fa-heart",
+        "category": ["soup"]
+    },
+    {
+        "id": 8,
+        "thumb": "Chicken Scallopini.png",
+        "delay": "300",
+        "title": "Chicken Scallopini",
+        "text": "Tender slice of chicken cooked in a creamy sauce, served with potato and vegetables.",
+        "tags": ["Chicken", "Creamy", "Potato"],
+        "price": 430.00,
+        "icon": "fa fa-heart",
+        "category": ["platters", "meat"]
+    },
+    {
+        "id": 9,
+        "thumb": "Bango Stuffed Chicken.png",
+        "delay": "400",
+        "title": "Bango Stuffed Chicken",
+        "text": "Marinated chicken stuffed with cheese and mushroom, with sauteed vegetables.",
+        "tags": ["Chicken", "Stuffed", "Cheese", "Mushroom"],
+        "price": 450.00,
+        "icon": "fa fa-heart",
+        "category": ["platters", "meat"]
+    },
+    {
+        "id": 10,
+        "thumb": "BBQ Chicken.png",
+        "delay": "500",
+        "title": "Chicken BBQ",
+        "text": "Juicy marinated BBQ chicken served with a fresh garden salad and butter rice.",
+        "tags": ["Chicken", "BBQ", "Salad", "Rice"],
+        "price": 410.00,
+        "icon": "fa fa-heart",
+        "category": ["platters", "meat"]
+    },
+    {
+        "id": 11,
+        "thumb": "Sarilon Steak.png",
+        "delay": "100",
+        "title": "Sirloin Steak",
+        "text": "A perfectly marinated sirloin steak served with mashed potato and sauteed vegetables.",
+        "tags": ["Beef", "Steak", "Potato"],
+        "price": 1390.00,
+        "icon": "fa fa-heart",
+        "category": ["platters", "meat"]
+    },
+    {
+        "id": 12,
+        "thumb": "Sea_Food_Fried_Rice.png",
+        "delay": "200",
+        "title": "Seafood Fried Rice",
+        "text": "A delicious mix of gourmet seafood and vegetables in fried rice with our chef's special sauce.",
+        "tags": ["Seafood", "Rice", "Chinese"],
+        "price": 340.00,
+        "icon": "fa fa-heart",
+        "category": ["chinese", "seafood"]
+    },
+    {
+        "id": 13,
+        "thumb": "Salmon_steak.png",
+        "delay": "300",
+        "title": "Norwegian Salmon Steak",
+        "text": "Imported Norwegian salmon with mashed potato and sauteed vegetables in a lemon butter sauce.",
+        "tags": ["Salmon", "Steak", "Seafood", "Potato"],
+        "price": 1899.00,
+        "icon": "fa fa-heart",
+        "category": ["seafood", "platters"]
+    },
+    {
+        "id": 14,
+        "thumb": "Koral Fish.png",
+        "delay": "400",
+        "title": "Grill Koral Fish",
+        "text": "Marinated whole koral fish, grilled and served with vegetables and lemon butter sauce.",
+        "tags": ["Fish", "Grill", "Seafood"],
+        "price": 1390.00,
+        "icon": "fa fa-heart",
+        "category": ["seafood", "platters"]
+    },
+    {
+        "id": 15,
+        "thumb": "Beef Shawarma.png",
+        "delay": "500",
+        "title": "Beef Shawarma",
+        "text": "Tender marinated beef, local lettuce, and pickles wrapped and served with special sauce.",
+        "tags": ["Beef", "Shawarma", "Lettuce", "Pickles"],
+        "price": 449.00,
+        "icon": "fa fa-heart",
+        "category": ["shawarma", "meat"]
+    },
+    {
+        "id": 16,
+        "thumb": "Chicken Shawarma.png",
+        "delay": "600",
+        "title": "Chicken Shawarma",
+        "text": "Marinated fried chicken, local lettuce, and pickles wrapped and served with special sauce.",
+        "tags": ["Chicken", "Shawarma", "Lettuce", "Pickles"],
+        "price": 330.00,
+        "icon": "fa fa-heart",
+        "category": ["shawarma", "meat"]
+    },
+    {
+        "id": 17,
+        "thumb": "Chyicken  Pizza.png",
+        "delay": "100",
+        "title": "Chicken Fajita Pizza",
+        "text": "Toasted pizza topped with spicy chicken, onion, black olives, capsicum, and cheese.",
+        "tags": ["Pizza", "Chicken", "Fajita", "Cheese"],
+        "price": 650.00,
+        "icon": "fa fa-heart",
+        "category": ["pizza", "meat"]
+    },
+    {
+        "id": 18,
+        "thumb": "Beef Pizza.png",
+        "delay": "200",
+        "title": "Beef Bolognese Gourmet Pizza",
+        "text": "Gourmet pizza with minced beef, napolitano sauce, onion, black olives, and jalapeno.",
+        "tags": ["Pizza", "Beef", "Bolognese", "Cheese"],
+        "price": 1090.00,
+        "icon": "fa fa-heart",
+        "category": ["pizza", "meat"]
+    },
+    {
+        "id": 19,
+        "thumb": "Juice.png",
+        "delay": "300",
+        "title": "Ginger Citrus Mocktail",
+        "text": "A refreshing and zesty mocktail with a perfect blend of ginger and citrus flavors.",
+        "tags": ["Beverage", "Mocktail", "Ginger", "Citrus"],
+        "price": 350.00,
+        "icon": "fa fa-heart",
+        "category": ["beverages", "mocktails"]
+    },
+    {
+        "id": 20,
+        "thumb": "Juice 2.png",
+        "delay": "400",
+        "title": "Sunrise Mocktail",
+        "text": "A beautiful and delicious mocktail, perfect for a bright and sunny day.",
+        "tags": ["Beverage", "Mocktail", "Fruity"],
+        "price": 400.00,
+        "icon": "fa fa-heart",
+        "category": ["beverages", "mocktails"]
+    }
+]
