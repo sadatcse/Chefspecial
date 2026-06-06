@@ -5,6 +5,7 @@ A premium, modern web application for **Chef's Special Restaurant** located in U
 ---
 
 ## 🚀 Live Demo & Deployment
+- **Live Link**: [chefspecial.vercel.app](https://chefspecial.vercel.app/)
 - The app is fully configured for deployment on **Vercel** via standard single-page app configuration.
 - Rewrites are configured in `vercel.json` to handle dynamic React Router navigation.
 
